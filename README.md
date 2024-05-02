@@ -1,4 +1,4 @@
-# PyBot
+# PyBot 08/19/2020- 11/12/2022
 ### this bot isn't being developed and bugs likely won't be patched. this was a project to learn how to code a python only bot. 
 ## Features
 - Sends a message whenever someone joins
